@@ -127,6 +127,8 @@ header {
 
 .card .card-text {
   overflow: hidden;
+  max-height: 100%;
+  transition: .15s ease-in-out;
 }
 
 
